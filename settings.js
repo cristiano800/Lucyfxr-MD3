@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['14053494665']
+global.owner = ['6283819082780','14053494665']
 global.premium = ['6283819082780','14053494665']
-global.ownernomer = '14053494665'
+global.ownernomer = 'wa.me/14053494665'
 global.ownername = 'Lucyfxr'
 global.botname = 'Ryutenzo Bot'
 global.footer = 'Ryutenzo Bot.'
